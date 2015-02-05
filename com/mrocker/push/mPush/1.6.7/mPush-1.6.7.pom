@@ -3,8 +3,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.mrocker.push</groupId>
-  <artifactId>mPush</artifactId>
+  <artifactId>mpush</artifactId>
   <version>1.6.7</version>
   <packaging>aar</packaging>
-  <name>mPush</name>
+  <name>mpush</name>
 </project>
