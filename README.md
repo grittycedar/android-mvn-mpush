@@ -9,5 +9,5 @@
     
 ####2.依赖当前maven库
 	dependencies {
-    	compile 'com.mrocker.push:mPush:1.6.7'
+    	compile 'com.mrocker.push:mPush:1.6.9'
 	}
