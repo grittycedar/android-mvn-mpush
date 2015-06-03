@@ -2,11 +2,11 @@
 <metadata>
   <groupId>com.mrocker.push</groupId>
   <artifactId>mpush</artifactId>
-  <version>1.7.5</version>
+  <version>1.7.7</version>
   <versioning>
     <versions>
-      <version>1.7.5</version>
+      <version>1.7.7</version>
     </versions>
-    <lastUpdated>20150417070602</lastUpdated>
+    <lastUpdated>20150603014707</lastUpdated>
   </versioning>
 </metadata>
