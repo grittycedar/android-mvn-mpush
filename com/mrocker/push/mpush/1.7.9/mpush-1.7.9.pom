@@ -4,7 +4,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.mrocker.push</groupId>
   <artifactId>mpush</artifactId>
-  <version>1.7.8</version>
+  <version>1.7.9</version>
   <packaging>aar</packaging>
   <name>mpush</name>
 </project>
